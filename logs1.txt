@@ -2,3 +2,4 @@ aws cloudformation deploy --template-file /codebuild/output/src4/src/template-ex
 aws cloudformation deploy --template-file /codebuild/output/src4/src/template-export.yml --stack-name <YOUR STACK NAME>
 git push --set-upstream origin feature
 dharun updates
+conflicts finalized. Thank you sasitharan96.
