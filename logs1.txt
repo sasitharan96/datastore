@@ -1,4 +1,7 @@
 aws cloudformation deploy --template-file /codebuild/output/src4/src/template-export.yml --stack-name <YOUR STACK NAME>
 aws cloudformation deploy --template-file /codebuild/output/src4/src/template-export.yml --stack-name <YOUR STACK NAME>
-git push --set-upstream origin master
-
+git push --set-upstream origin feature
+dharun updates
+conflicts finalized. Thank you sasitharan96.
+>>>>>>> 9f7d81e07e8f277309635ae5e18a6a270d506810
+>>>>>>> 4cb8c86c789f35017c4d87bfcc662a8c5fdd4db8
